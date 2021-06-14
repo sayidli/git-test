@@ -2,3 +2,5 @@ hello git
 from master
 --------------------------
 from master!
+-----------------------
+from bugfixed
